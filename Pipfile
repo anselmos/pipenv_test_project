@@ -8,7 +8,7 @@ name = "pypi"
 [packages]
 
 selenium = "*"
-pelican = "==3.6.0"
+pelican = "*"
 
 
 [dev-packages]
